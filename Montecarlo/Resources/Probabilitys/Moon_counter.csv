@@ -1,0 +1,4 @@
+valor,probabilidad,acumulado,inferior,superior
+1,0.65,0.65,0,0.65
+2,0.25,0.9,0.65,0.9
+3,0.1,1,0.9,1
